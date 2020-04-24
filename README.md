@@ -12,11 +12,17 @@ The following are possible guidelines that could help protect our towns elderly 
 
 1. Always Social Distance (2 m or 6 feet) with non-family members
 
-1. Whenever you can't social distance (2 m or 6 feet) with any non-family members either inside or outside please wear a mask or face covering.
+1. Before leaving your house check that your homemade mask is adjusted well, fits comfortably and has no leaks. 
 
-1. If you are ever in a room, store, business, vehicle with any non-family members please wear a mask for the duration of the visit or trip.
+1. Whenever you can't social distance (2 m or 6 feet) either inside or outside please wear a mask or face covering.
+
+1. If you are ever in a room, store, business or vehicle with other people, please wear a mask for the duration of the visit or trip.
 
 1. If a family member has a fever or has tested positive for Covid-19 please wear a mask at home and follow the advise of your family doctor.
+
+1. Wash your homemade mask daily, best to have 2 or more masks. 
+
+
 
 # Reasons for Wearing Homemade Masks.
 
