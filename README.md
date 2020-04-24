@@ -4,7 +4,7 @@
 The following are possible guidelines that could help protect our towns elderly population and others from death due to Covid-19. 
 
 
-# Guidelines for Homemade Mask Usage during an Epidemic:
+# Guidelines for Homemade Mask Usage during a Pandemic:
 
 1. Stay home as much as you can.
 
