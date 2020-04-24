@@ -13,7 +13,7 @@ The following are possible guidelines that could help protect our towns elderly 
 
 1. Stay home as much as you can.
 
-1. Wash you hands before eating or touching your eye, nose, mouth.
+1. Wash you hands before eating or touching your eyes, nose or mouth.
 
 1. Always Social Distance (2 m or 6 feet) with non-family members
 
