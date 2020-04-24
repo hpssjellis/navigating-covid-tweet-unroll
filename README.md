@@ -20,7 +20,7 @@ The following are possible guidelines that could help protect our towns elderly 
 
 1. If someone you live with has a fever or has tested positive for Covid-19 please wear a mask at home and follow the advise of your family doctor.
 
-1. Wash and check your homemade mask daily, best to have 2 or more masks. 
+1. Wash and check your homemade mask nightly so it is dry in the morning, best to have 2 or more masks. 
 
 
 
