@@ -1,7 +1,7 @@
 
 # Dear Mayor
 
-The following are possible guidelines that could help protect our towns elderly population and others from death due to the exponential growth of Covid-19. 
+The following are possible guidelines that could help protect our towns elderly population and others from death due to Covid-19. 
 
 
 # Guidelines for Homemade Mask Usage during an Epidemic:
