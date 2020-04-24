@@ -1,8 +1,3 @@
-# Town Guidelines for Homemade Mask Wearing
-
-A letter to your town Mayor suggesting possible guidelines to help with supporting volunteer or mandatory homemade mask wearing to reduce the spread of Covid-19
-
-
 
 # Dear Mayor
 
