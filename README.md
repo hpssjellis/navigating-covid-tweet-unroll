@@ -10,7 +10,7 @@ The following are possible guidelines that could help protect our towns elderly 
 
 1. Wash you hands before eating or touching your eyes, nose or mouth.
 
-1. Always Social Distance (2 m or 6 feet) with non-family members
+1. Always social distance (2 m or 6 feet) with anyone that does not live with you.
 
 1. Before leaving your house check that your homemade mask is adjusted well, fits comfortably and has no leaks. 
 
