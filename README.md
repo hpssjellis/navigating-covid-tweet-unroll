@@ -16,7 +16,7 @@ The following are possible guidelines that could help protect our towns elderly 
 
 1. Whenever you can't social distance (2 m or 6 feet) either inside or outside please wear a mask or face covering.
 
-1. If you are ever in a room, store, business or vehicle with other people that you do not live with, please wear a mask for the duration of the visit or trip.
+1. If you are in a room, store, business or vehicle with other people that do not live with you, please wear a mask for the duration of the visit or trip.
 
 1. If someone you live with has a fever or has tested positive for Covid-19 please wear a mask at home and follow the advise of your family doctor.
 
