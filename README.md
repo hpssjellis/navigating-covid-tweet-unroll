@@ -10,12 +10,22 @@ The following are possible guidlines that could help protect our towns elderly p
 
 # Guidlines for Homemade Mask Usage during an Epidemic:
 
-1. Whenever you can't social distance (2 m or 6 feet) either inside or outside please wear a mask or face covering
+1. Stay home as much as you can.
 
-1. If you are ever in a room, store, business, vehical with any non-family members please wear a mask for the duration of your visit or trip
+1. Wash you hands before eating or touching your eye, nose, mouth.
 
-# Reasons for Homemade Mask Wearing
+1. Social Distance (2 m or 6 feet).
 
-1. When a contagious person exhales, talks, coughs or sneezes, virus laden droplets are caught by face coverings. Without face coverings these droplets can evaporate to a much smaller size which are then much harder to stop even with professional masks. 
+1. Whenever you can't social distance (2 m or 6 feet) with any non-family members either inside or outside please wear a mask or face covering.
+
+1. If you are ever in a room, store, business, vehicle with any non-family members please wear a mask for the duration of your visit or trip.
+
+1. If a family member has a fever or has tested positive for Covid-19 please wear a mask at home and follow the advise of your family doctor.
+
+# Reasons for Wearing Homemade Masks.
+
+1. When a contagious person exhales, talks, coughs or sneezes, virus laden droplets are caught by face coverings. Without face coverings these droplets can evaporate to a much smaller size, these micro-droplets float much farther, and are then much harder to stop even with professional masks. 
 
 1. If a large percentage of people wear homemade masks a virus has less chance of replicating. If a virus can't replicate the pandemic stops.
+
+
