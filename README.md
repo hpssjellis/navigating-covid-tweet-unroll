@@ -26,8 +26,11 @@ The following are possible guidelines that could help protect our towns elderly 
 
 # Reasons for Wearing Homemade Masks.
 
-1. When a contagious person exhales, talks, coughs or sneezes, virus laden droplets are caught by face coverings. Without face coverings these droplets can evaporate to a much smaller size. These much smaller micro-droplets can float farther distances, but more importantly are now much harder to stop even with professional grade masks. 
+1. When a contagious person exhales, talks, coughs or sneezes, virus laden droplets are caught by face coverings. Without face coverings these droplets can evaporate to a much smaller size. These much smaller micro-droplets can float farther distances, but more importantly are now much harder to stop even with professional grade masks. A reminder that the professional N95 masks are needed for hospital workers as machinery can aerosol the virus.
 
 1. If a large percentage of people wear homemade masks a virus has less chance of replicating. If a virus can't replicate the Pandemic stops.
 
+# Making a Homemade Mask
 
+A homemade mask can be as simple as cloth cut out of a t-shirt. 
+Lots of online help for making various homemade face coverings
