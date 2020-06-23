@@ -42,28 +42,34 @@ Tweet 5/?
 | Driving Risk Reduction | Covid 19 Risk Reduction |
 | ------ | ------ |
 | **Before Leaving Your House**      |        **Before Leaving Your House**  |
-| When leaving the house always check that your cars mirrors are adjusted properly for you     |     When leaving the house always bring your clean cloth homemade mask |
+| Check that your cars mirrors are adjusted properly for you     |     Check that you have a clean homemade cloth mask with you |
+| Know the car's safety features:             |              |
+| Leave early           |              |
+| Plan (Enter GPS address before driving)            |              |
+| Set all electronics before leaving, stop safely to make and changes            |              |
+|             |              |
+|             |              |
+|             |              |
+| **General Driving Risk Reduction**    |    **General Covid Risk Reduction**  |
+|  Mirror and Shoulder Check           |    Wear a mask when: In small rooms with low ceilings and other people, when within 2 m of anyone anywhere who does not live with you, when people are up-wind of you, when travelling with anyone, when it's the law             |
+|  Drive Defensively, think what could happen next           |  Mask defensively, think about what are the biggest risks. Note: alone in your car, or outside by yourself are very very low risk.            |
+|             |              |
+|             |              |
+| **Residential Driving**    |    **At Home**  |
+|             |              |
+|             |              |
+|             |              |
+| **On the Highway**   |    **Covid Travel**  |
+|  Obey the 2 second rule (Adjust cruise control for 2 second rule)           |    always Social Distance 2 meters (6 feet)          |
+| Adjust 2 second rule for the weather conditions            |     Airflow aware: adjust 2 m rule as wind increases, Note:masked and immunocompromised people stay up-wind         |
+|             |              |
+|             |              |
+|             |              |
+| **Driving to Work or School**   |    **Covid Risks at Work or School**  |
 |             |              |
 |             |              |
 |             |              |
 |             |              |
 |             |              |
-|             |              |
-|             |              |
-|             |              |
-| **Car Heading**   |    **Covid Heading**  |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
-
 
 
