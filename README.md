@@ -11,22 +11,60 @@ Website: <a href="https://www.rocksetta.com/">www.rocksetta.com</a>
 
 
 Tweet 1/?
+
 #PandemicThoughts
+
 I have to move on to other projects as my new microcontroller is in the mail, but I thought I would summarize a bit of what I have learnt during this #Covid19 #Pandemic
 
-Tweet 2/?
-#PandemicThoughts
-North Americans would get a huge boost in needed self esteem if they could just wear a #mask to help others instead of just thinking about themselves.
 
-Tweet 3/?
-#PandemicThoughts
-The Rt (local Virus Reproduction Rate) needs to be better understaood and graphed for your average person to understand and react to locally
 
-Tweet 4/?
+
+Tweet /?
+
 #PandemicThoughts
 
-Tweet 5/?
+North Americans would get a huge boost in self-esteem if they could just wear a #mask to help others instead of just thinking about themselves.
+
+
+
+
+Tweet /?
+
 #PandemicThoughts
+
+#Masks just might actually help you in reducing your #covid19 risk and not just help others!
+
+
+
+
+
+Tweet /?
+
+#PandemicThoughts
+
+The Rt (local Virus Reproduction Rate) needs to be better understood and graphed for the average person to understand and react to locally. 
+(An Rt of 1 or greater means the virus is moving exponentially, Less than one means the virus might be reducing)
+
+
+
+
+
+Tweet /?
+
+#PandemicThoughts
+
+
+
+
+
+
+Tweet /?
+
+#PandemicThoughts
+
+
+
+
 
 
 
@@ -46,7 +84,7 @@ Tweet 5/?
 | Know the car's safety features:             |              |
 | Leave early           |              |
 | Plan (Enter GPS address before driving)            |              |
-| Set all electronics before leaving, stop safely to make and changes            |              |
+| Set all electronics before leaving, stop safely to make any changes            |              |
 |             |              |
 |             |              |
 |             |              |
