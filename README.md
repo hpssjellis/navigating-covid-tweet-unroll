@@ -3,7 +3,7 @@ ad
 fg
 sd
 
-| *bold* | *also* |
+| bold | also |
 | hello | this |
 | hello | this |
 
