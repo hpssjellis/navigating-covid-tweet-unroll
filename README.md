@@ -1,7 +1,8 @@
+# Navigating Covid Tweet Unroll
 
-ad
-fg
-sd
+### Comparing Covid Risk Reuction to Learning to Drive Suggestions
+### An opinion and tweet by Jeremy Ellis @rocksetta
+
 
 | bold | also |
 | ------ | ------ |
