@@ -41,28 +41,29 @@ Tweet 5/?
 
 | Driving Risk Reduction | Covid 19 Risk Reduction |
 | ------ | ------ |
-| **Before Leaving Your House**   |    **Before Leaving Your House**  |
-| When leaving the house always check that your cars mirrors are adjusted properly for you | When leaving the house always bring your clean cloth homemade mask |
-
-
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
+| **Before Leaving Your House**      |        **Before Leaving Your House**  |
+| When leaving the house always check that your cars mirrors are adjusted properly for you     |     When leaving the house always bring your clean cloth homemade mask |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
 | **Car Heading**   |    **Covid Heading**  |
-
-
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
 
 
 
