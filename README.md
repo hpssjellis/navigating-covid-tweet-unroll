@@ -1,6 +1,6 @@
 # Navigating Covid Tweet Unroll
 
-### Comparing Covid Risk Reduction to Driving Rish Reduction
+### Comparing  Driving Risk Reduction to Covid Risk Reduction
 ### An opinion and tweet by Jeremy Ellis 
 
 Twitter: <a href="https://twitter.com/rocksetta">@rocksetta</a>  
