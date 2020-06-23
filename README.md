@@ -94,8 +94,8 @@ Tweet /?
 |  The speedlimit saves lives           |  Outside has enormous air dilution effect. Try to stay outside, away from people, upwind            |
 |  If you see someone driving erratically, try to get behind them and even farther awayu. Call 911 if appropriate.           |  If you see someone coughing, be distance, airflow and mask aware. You can always use your shirt as an impromtu mask, by just pulling it up. Reminder first Rule, always have your mask with you.            |
 |   Reduce music volume if things start getting tricky. Hard to think with the music blasting          |              |
-|  Slow down for any kind of road work           |              |
-|  Do not looky loo at accidents as you could cause another accident.            |              |
+|  Slow down for any kind of road work           |     Respiratory Droplets that are affected by gravity contain a lot more active virus than aerosols that can float in a room for many hours. Be aware of your time in small rooms or close to others.         |
+|  Do not looky loo at accidents as you could cause another accident.            |    Stay away from sick people, unless you have the proper protective equipment that healthcare professionals wear.          |
 | Don't drive under the influence of Drugs, Alcohol or any substance that can make you tired            |              |
 |  If tired think of perhaps taking a break or having a coffee. A 20 min nap in a safely parked car can often do wonders for your attention.          |              |
 |             |              |
@@ -129,7 +129,7 @@ Tweet /?
 |             |              |
 |             |              |
 | **Driving to Work or School**   |    **Covid Risks at Work or School**  |
-|             |              | 
+|  In parking lots drive very slowly, a person, child or car could quickly come out from behind an object.            |   Wear your mask, or have it very close so you can "Mask Up" easily to work closely with someone or navigate around a group of people.           | 
 |             |              |
 |             |              |
 |             |              |
