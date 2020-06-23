@@ -20,7 +20,7 @@ North Americans would get a huge boost in needed self esteem if they could just 
 
 Tweet 3/?
 #PandemicThoughts
-The Rt (local Virus reproduction rate) needs to be better understaood and graphed for your average person.
+The Rt (local Virus Reproduction Rate) needs to be better understaood and graphed for your average person to understand and react to locally
 
 Tweet 4/?
 #PandemicThoughts
@@ -43,13 +43,16 @@ Tweet 5/?
 | ------ | ------ |
 | **Before Leaving Your House**   |    **Before Leaving Your House**  |
 | When leaving the house always check that your cars mirrors are adjusted properly for you | When leaving the house always bring your clean cloth homemade mask |
-| hello | this |
+
+
 |       |       |
 |       |       |
 |       |       |
 |       |       |
 |       |       |
 | **Car Heading**   |    **Covid Heading**  |
+
+
 |       |       |
 |       |       |
 |       |       |
