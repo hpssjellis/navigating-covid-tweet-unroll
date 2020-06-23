@@ -78,11 +78,12 @@ Tweet /?
 | Driving Risk Reduction | Covid 19 Risk Reduction |
 | ------ | ------ |
 | **Before Leaving Your House**      |        **Before Leaving Your House**  |
-| Check that your cars mirrors are adjusted properly for you     |     Check that you have a clean homemade cloth mask with you. This is the first and most important rule. |
-| Know the car's safety features:             |              |
-| Leave early           |              |
-| Plan (Enter GPS address before driving)            |              |
-| Set all electronics before leaving, stop safely to make any changes            |              |
+| Check that your cars mirrors are adjusted properly for you     |     Check that you have a **clean homemade cloth mask** with you. This is the first and most important rule. |
+
+| Know the car's safety features:             |    A masks actually stops you from touching your open mouth          |
+| Leave early           |    Yes Masks help others, but they may actually help you as well          |
+| Plan (Enter GPS address before driving)            |             |
+| Set all electronics before leaving, stop safely to make any changes            |    Wash your hands before ever touching your eyes, nose or mouth           |
 |             |              |
 |             |              |
 |             |              |
@@ -94,7 +95,12 @@ Tweet /?
 |  If you see someone driving erratically, try to get behind them and even farther awayu. Call 911 if appropriate.           |  If you see someone coughing, be distance, airflow and mask aware. You can always use your shirt as an impromtu mask, by just pulling it up. Reminder first Rule, always have your mask with you.            |
 |   Reduce music volume if things start getting tricky. Hard to think with the music blasting          |              |
 |  Slow down for any kind of road work           |              |
-|  Do not looky loo at accidents as you could cause another.            |              |
+|  Do not looky loo at accidents as you could cause another accident.            |              |
+| Don't drive under the influence of Drugs, Alcohol or any substance that can make you tired            |              |
+|  If tired think of perhaps taking a break or having a coffee. A 20 min nap in a safely parked car can often do wonders for your attention.          |              |
+|             |              |
+|             |              |
+|             |              |
 |             |              |
 |             |              |
 |             |              |
@@ -116,6 +122,10 @@ Tweet /?
 |  Obey the 2 second rule (Adjust cruise control for 2 second rule)           |    always Social Distance 2 meters (6 feet)          |
 | Adjust 2 second rule for the weather conditions: Extra seconds for rain, Night, Snow, Fog, if your tired etc.            |     Airflow aware: adjust 2 m rule as wind increases, Note:masked and immunocompromised people should try to stay up-wind         |
 | Know how to merge safely, smoothly get to the same speed as the highway cars            |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
 |             |              |
 |             |              |
 | **Driving to Work or School**   |    **Covid Risks at Work or School**  |
