@@ -79,7 +79,6 @@ Tweet /?
 | ------ | ------ |
 | **Before Leaving Your House**      |        **Before Leaving Your House**  |
 | Check that your cars mirrors are adjusted properly for you     |     Check that you have a **clean homemade cloth mask** with you. This is the first and most important rule. |
-
 | Know the car's safety features:             |    A masks actually stops you from touching your open mouth          |
 | Leave early           |    Yes Masks help others, but they may actually help you as well          |
 | Plan (Enter GPS address before driving)            |             |
