@@ -1,7 +1,11 @@
 # Navigating Covid Tweet Unroll
 
-### Comparing Covid Risk Reuction to Learning to Drive Suggestions
-### An opinion and tweet by Jeremy Ellis @rocksetta
+### Comparing Covid Risk Reduction to Driving Rish Reduction
+### An opinion and tweet by Jeremy Ellis 
+
+Twitter: <a href="https://twitter.com/rocksetta">@rocksetta</a>
+Website: <a href="https://www.rocksetta.com/">www.rocksetta.com</a>
+
 
 
 
