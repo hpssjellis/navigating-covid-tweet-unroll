@@ -42,7 +42,7 @@ Tweet 5/?
 | Driving Risk Reduction | Covid 19 Risk Reduction |
 | ------ | ------ |
 | **Before Leaving Your House**      |        **Before Leaving Your House**  |
-| Check that your cars mirrors are adjusted properly for you     |     Check that you have a clean homemade cloth mask with you |
+| Check that your cars mirrors are adjusted properly for you     |     Check that you have a clean homemade cloth mask with you. This is the first and most important rule. |
 | Know the car's safety features:             |              |
 | Leave early           |              |
 | Plan (Enter GPS address before driving)            |              |
@@ -53,9 +53,26 @@ Tweet 5/?
 | **General Driving Risk Reduction**    |    **General Covid Risk Reduction**  |
 |  Mirror and Shoulder Check           |    Wear a mask when: In small rooms with low ceilings and other people, when within 2 m of anyone anywhere who does not live with you, when people are up-wind of you, when travelling with anyone, when it's the law             |
 |  Drive Defensively, think what could happen next           |  Mask defensively, think about what are the biggest risks. Note: alone in your car, or outside by yourself are very very low risk.            |
+|   Anticipate          |        Anticipate            |
+|  The speedlimit saves lives           |              |
+|  If you see someone driving erratically, try to get behind them and even farther awayu. Call 911 if appropriate.           |  If you see someone coughing, be distance, airflow and mask aware. You can always use your shirt as an impromtu mask, by just pulling it up. Reminder first Rule, always have your mask with you.            |
 |             |              |
 |             |              |
-| **Residential Driving**    |    **At Home**  |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+| **Residential Driving**    |    **Covid At Home**  |
+|  The speedlimit is the maximum, you can go slower as you see pets, children, toys, groups of people etc           |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
 |             |              |
 |             |              |
 |             |              |
