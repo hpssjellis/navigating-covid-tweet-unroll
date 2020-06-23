@@ -90,16 +90,16 @@ Tweet /?
 |  Mirror and Shoulder Check           |    Wear a mask when: In small rooms with low ceilings and other people, when within 2 m of anyone anywhere who does not live with you, when people are up-wind of you, when travelling with anyone, when it's the law             |
 |  Drive Defensively, think what could happen next           |  Mask defensively, think about what are the biggest risks. Note: alone in your car, or outside by yourself are very very low risk.            |
 |   Anticipate          |        Anticipate            |
-|  The speedlimit saves lives           |              |
+|  The speedlimit saves lives           |  Outside has enormous air dilution effect. Try to stay outside, away from people, upwind            |
 |  If you see someone driving erratically, try to get behind them and even farther awayu. Call 911 if appropriate.           |  If you see someone coughing, be distance, airflow and mask aware. You can always use your shirt as an impromtu mask, by just pulling it up. Reminder first Rule, always have your mask with you.            |
 |   Reduce music volume if things start getting tricky. Hard to think with the music blasting          |              |
 |  Slow down for any kind of road work           |              |
-|  Do not looky loo.            |              |
+|  Do not looky loo at accidents as you could cause another.            |              |
 |             |              |
 |             |              |
 |             |              |
 | **Residential Driving Risk Reduction**    |    **Covid At Home Risk Reduction**  |
-|  The speedlimit is the maximum, you can go slower as you see pets, children, toys, groups of people etc           |              |
+|  The speed limit is the maximum, you can always go slower as you see: pets, children, toys, groups of people etc           |   If someone at home has a cough or a fever: Do your research, listen to your doctor to protect them and the rest of your family. Infected person in room near washroom. Time for everyone to wear a mask, when the infected person is around. Also increased house cleaning (Disinfectant)            |
 |             |              |
 |             |              |
 |             |              |
@@ -114,12 +114,12 @@ Tweet /?
 |             |              |
 | **On the Highway Risk Reduction**   |    **Covid Travel Risk Reduction**  |
 |  Obey the 2 second rule (Adjust cruise control for 2 second rule)           |    always Social Distance 2 meters (6 feet)          |
-| Adjust 2 second rule for the weather conditions            |     Airflow aware: adjust 2 m rule as wind increases, Note:masked and immunocompromised people should try to stay up-wind         |
+| Adjust 2 second rule for the weather conditions: Extra seconds for rain, Night, Snow, Fog, if your tired etc.            |     Airflow aware: adjust 2 m rule as wind increases, Note:masked and immunocompromised people should try to stay up-wind         |
 | Know how to merge safely, smoothly get to the same speed as the highway cars            |              |
 |             |              |
 |             |              |
 | **Driving to Work or School**   |    **Covid Risks at Work or School**  |
-|             |              |
+|             |              | 
 |             |              |
 |             |              |
 |             |              |
