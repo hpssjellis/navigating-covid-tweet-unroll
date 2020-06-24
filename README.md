@@ -59,20 +59,25 @@ Tweet /?
 
 Tweet /?   
 #PandemicThoughts  
-This is not the last #Pandemic, hopefully we are better prepared for the next one
+This is not the last #Pandemic, hopefully we are better prepared for the next one. Following are a few:
 
 1. The #BlackDeath: 1346-1353
 1. #SpanishFlu: 1918-1920
 1. #AsianFlu: 1957-1958  
 1. #AIDS pandemic and epidemic: 1981-present day
-1. #H1N1 Swine Flu pandemic: 2009-2010
-1. West African #Ebola epidemic: 2014-2016
-1. #Zika Virus epidemic: 2015-present day
-1. #Covid19 2019-Present day 
+
  
 
 
 
+Tweet /?   
+#PandemicThoughts  
+This is not the last #Pandemic, hopefully we are better prepared for the next one. Following are a few:
+
+1. #H1N1 Swine Flu pandemic: 2009-2010
+1. West African #Ebola epidemic: 2014-2016
+1. #Zika Virus epidemic: 2015-present day
+1. #Covid19 2019-Present day 
 
 
 
@@ -95,6 +100,8 @@ This is not the last #Pandemic, hopefully we are better prepared for the next on
 |             |              |
 |             |              |
 |             |              |
+|             |              |
+|             |              |
 | **General Driving Risk Reduction**    |    **General Covid Risk Reduction**  |
 |  Mirror and Shoulder Check           |    Wear a mask when:  In small rooms with low ceilings and other people, when within 2 m of anyone anywhere who does not live with you, when people are up-wind of you, when travelling with anyone, when it's the law             |
 |  Drive Defensively, think what could happen next           |  Mask defensively, think about what are the biggest risks. Note: alone in your car, or outside by yourself are very very low risk.            |
@@ -106,6 +113,7 @@ This is not the last #Pandemic, hopefully we are better prepared for the next on
 |  Do not looky loo at accidents as you could cause another accident.            |    Stay away from sick people, unless you have the proper protective equipment that healthcare professionals wear.          |
 | Don't drive under the influence of Drugs, Alcohol or any substance that can make you tired            |              |
 |  If tired think of perhaps taking a break or having a coffee. A 20 min nap in a safely parked car can often do wonders for your attention.          |              |
+|             |              |
 |             |              |
 |             |              |
 |             |              |
@@ -136,8 +144,11 @@ This is not the last #Pandemic, hopefully we are better prepared for the next on
 |             |              |
 |             |              |
 |             |              |
+|             |              |
 | **Driving to Work or School**   |    **Covid Risks at Work or School**  |
 |  In parking lots drive very slowly, a person, child or car could quickly come out from behind an object.            |   Wear your mask, or have it very close so you can "Mask Up" easily to work closely with someone or navigate around a group of people.           | 
+|             |              |
+|             |              |
 |             |              |
 |             |              |
 |             |              |
