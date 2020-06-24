@@ -75,9 +75,9 @@ Tweet /?
 This is not the last #Pandemic, hopefully we are better prepared for the next one. Following are a few:
 
 1. #H1N1 Swine Flu pandemic: 2009-2010
-1. West African #Ebola epidemic: 2014-2016
-1. #Zika Virus epidemic: 2015-present day
-1. #Covid19 2019-Present day 
+1. West African #Ebola epidemic: 2014-2016 (11,323+ dead)
+1. #Zika Virus epidemic: 2015-present day (	53+ dead)
+1. #Covid19 2019-Present day (470,519+ dead)
 
 
 
@@ -136,8 +136,8 @@ This is not the last #Pandemic, hopefully we are better prepared for the next on
 |             |              |
 | **On the Highway Risk Reduction**   |    **Covid Travel Risk Reduction**  |
 |  Obey the 2 second rule (Adjust cruise control for 2 second rule)           |    always Social Distance 2 meters (6 feet)          |
-| Adjust 2 second rule for the weather conditions: Extra seconds for rain, Night, Snow, Fog, if your tired etc.            |     Airflow aware: adjust 2 m rule as wind increases, Note:masked and immunocompromised people should try to stay up-wind         |
-| Know how to merge safely, smoothly get to the same speed as the highway cars            |              |
+| Adjust 2 second rule for the weather conditions: Extra seconds for rain, Night, Snow, Fog, if your tired etc.            |     Airflow aware: adjust 2 m rule as wind or entirer breeze increases, Note:People wearing a mask and people who are immunocompromised should try to stay up-wind         |
+| Know how to merge safely, smoothly get to the same speed as the highway cars            |     When in close contact such as on a bus, taxi, train or plane wear a mask but also consider increasing airflow, moving away from others if possible         |
 |             |              |
 |             |              |
 |             |              |
