@@ -59,8 +59,17 @@ Tweet /?
 
 Tweet /?   
 #PandemicThoughts  
+This is not the last #Pandemic, hopefully we are better prepared for the next one
 
-
+1. The #BlackDeath: 1346-1353
+1. #SpanishFlu: 1918-1920
+1. #AsianFlu: 1957-1958  
+1. #AIDS pandemic and epidemic: 1981-present day
+1. #H1N1 Swine Flu pandemic: 2009-2010
+1. West African #Ebola epidemic: 2014-2016
+1. #Zika Virus epidemic: 2015-present day
+1. #Covid19 2019-Present day 
+ 
 
 
 
@@ -87,7 +96,7 @@ Tweet /?
 |             |              |
 |             |              |
 | **General Driving Risk Reduction**    |    **General Covid Risk Reduction**  |
-|  Mirror and Shoulder Check           |    Wear a mask when: In small rooms with low ceilings and other people, when within 2 m of anyone anywhere who does not live with you, when people are up-wind of you, when travelling with anyone, when it's the law             |
+|  Mirror and Shoulder Check           |    Wear a mask when:  In small rooms with low ceilings and other people, when within 2 m of anyone anywhere who does not live with you, when people are up-wind of you, when travelling with anyone, when it's the law             |
 |  Drive Defensively, think what could happen next           |  Mask defensively, think about what are the biggest risks. Note: alone in your car, or outside by yourself are very very low risk.            |
 |   Anticipate          |        Anticipate            |
 |  The speedlimit saves lives           |  Outside has enormous air dilution effect. Try to stay outside, away from people, upwind            |
