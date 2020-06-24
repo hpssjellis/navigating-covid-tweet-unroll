@@ -113,10 +113,10 @@ This is not the last #Pandemic, hopefully we are better prepared for the next on
 |  Do not looky loo at accidents as you could cause another accident.            |    Stay away from sick people, unless you have the proper protective equipment that healthcare professionals wear.          |
 | Don't drive under the influence of Drugs, Alcohol or any substance that can make you tired            |              |
 |  If tired think of perhaps taking a break or having a coffee. A 20 min nap in a safely parked car can often do wonders for your attention.          |              |
-|             |              |
-|             |              |
-|             |              |
-|             |              |
+|   Keep you windows clean          |   Put up plexiglass or plastic shields where appropriate. Anything to reduce the amount of virus.           |
+|   Check your oil          |    When their is not much sunlight consider a sensible amount of vitamin D supplements          |
+|   Get your car serviced          |    Phone your doctor if you have a cough or fever          |
+|   When vehicle is making any funny soujds or reacting strange ask a mechanic          |   Research about dexamethasone           |
 |             |              |
 |             |              |
 |             |              |
